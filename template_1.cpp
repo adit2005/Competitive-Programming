@@ -1,18 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <queue>
-#include <stack>
-#include <deque>
-#include <set>
-#include <unordered_set>
-#include <map>
-#include <unordered_map>
-#include <string>
-#include <cmath>
-#include <iomanip>
-#include <climits>
-#include <bitset>
+#include <bits/stdc++.h>
 
 typedef unsigned long long ull;
 typedef long long ll;
