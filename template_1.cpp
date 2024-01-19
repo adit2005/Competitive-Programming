@@ -4,6 +4,9 @@
 
 
 #include <bits/stdc++.h>
+#include <vector>
+#include <algorithm>
+#include <iostream>
 
 typedef unsigned long long ull;
 typedef long long ll;
