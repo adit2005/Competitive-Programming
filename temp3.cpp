@@ -5,9 +5,32 @@
 // ====================================================================
 
 #include <bits/stdc++.h>
-#include <vector>
-#include <algorithm>
-#include <iostream>
+#include<stdlib.h>
+#include<iostream>
+#include<time.h>
+#include<vector>
+#include<iostream>
+#include<vector>
+#include<string>
+#include<algorithm>
+#include<stack>
+#include<unordered_set>
+#include<cmath>
+#include<numeric>
+#include<iterator>
+#include<set>
+#include<unordered_map>
+#include<map>
+#include<queue>
+#include<cstring>
+#include<stdio.h>
+#include<fstream>
+#include<iomanip>
+#include<functional>
+#include<bitset>
+#include<chrono>
+#include<climits>
+#include<assert.h>
 
 
 #define pb push_back
